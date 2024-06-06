@@ -1,5 +1,7 @@
 # Android device tree for Redmi air (air)
 
+# WORK IN PROGRESS
+
 ```
 #
 # Copyright (C) 2024 The Android Open Source Project
